@@ -9,10 +9,10 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 
 - 🔭 I’m currently working on:
 	- Training Data Science 👨🏻‍💻 to UnderGrads to enhance their career prospects
-	- Working on Electric Bus Routing Problem 
+	- Working on :bus: Electric Bus Routing Problem 
 - :bulb: I'm interested in all things data: **CyberSecurity 🛡️, Big Data 🛢️, Cloud ☁, Machine Learning 🤖 and Data Science 👨🏻‍💻**
 - 💬 Talk to me about Philosophy  :brain:, anything that interests you.
-- 🌱 I’m currently pursuing **PhD** at LJK University.
+- :student: I’m currently pursuing **PhD** at LJK University.
 
 ### My skills include
 
