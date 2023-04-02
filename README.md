@@ -3,14 +3,14 @@
 
 <h3 style = "color:cyan"> Hi there 👋 I'm Manish Patel </h3>
 
-An Assistant Professor and a data science trainer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+An Assistant Professor and a data science trainer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 👨🏻‍💻 DataScience, :new: Innovation and Automation :robot: 
 
 
 
 - 🔭 I’m currently working on:
-	- Training Data Science to UnderGrads to enhance their career prospects
+	- Training Data Science 👨🏻‍💻 to UnderGrads to enhance their career prospects
 	- Working on Electric Bus Routing Problem 
-- :bulb: I'm interested in all things data: **CyberSecurity, Big Data, Cloud, Machine Learning and Data Science**
+- :bulb: I'm interested in all things data: **CyberSecurity 🛡️, Big Data 🛢️, Cloud ☁, Machine Learning 🤖 and Data Science 👨🏻‍💻**
 - 💬 Talk to me about Philosophy  :brain:, anything that interests you.
 - 🌱 I’m currently pursuing **PhD** at LJK University.
 
@@ -18,6 +18,7 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+	<img title="R" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="MySQLite" alt="MySQLite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="60" height="40" />
