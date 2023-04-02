@@ -29,17 +29,15 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 <hr>
 <p align="center">
 	<b> <i> Happiness is a state of mind</i></b>
-   </p>
-<br>	
+
+</p>
+<hr>
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/manishkumar-patel-6503b0b6/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:manish.patel@ljinstitutes.edu.in"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/patelmanishv/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <a target="_blank" href="https://www.researchgate.net/profile/Manishkumar-Patel-8?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></img></a>
-<br>
 </p>
-
-    
-
 
 -----
 
