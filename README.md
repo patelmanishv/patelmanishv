@@ -3,7 +3,7 @@
 
 <h3 style = "color:cyan"> Hi there 👋 I'm Manish Patel </h3>
 
-An Assistant Professor and a data science trainer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 👨🏻‍💻 DataScience, :new: Innovation and Automation :robot: 
+An Assistant Professor and a data science trainer passionate about Data Science :bar_chart:. I like automating things, teaching and learning  - 📜 open source, :cloud: Cloud Computing, 👨🏻‍💻 DataScience, CyberSecurity 🛡️,  :new: Innovation and Automation :robot: 
 
 
 
