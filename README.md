@@ -19,11 +19,15 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="R" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" width="40" height="40" />
+	<img title="Latex" alt="Latex" src="https://ih1.redbubble.net/image.960209881.8162/st,small,507x507-pad,600x600,f8f8f8.jpg" width="40" height="40" />
+	<img title="Rstudio" alt="Rstudio" src="https://quarto.org/docs/get-started/images/rstudio-logo.png" width="40" height="40" />
+	<img title="vscode" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" />
 	<img title="Matlab" alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="MySQLite" alt="MySQLite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="60" height="40" />
   <img title="PowerBI" alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="60" height="40" />
+	
 </p>
 
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
