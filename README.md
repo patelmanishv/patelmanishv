@@ -29,7 +29,7 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">
-	<b> <i> Happiness is a state of mind</i></b>
+	<b> <i> Happiness is a state of mind.</i></b>
 
 </p>
 <hr>
