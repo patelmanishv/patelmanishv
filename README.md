@@ -37,6 +37,16 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanishv&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+:globe_with_meridians: My Websites
+<hr>
+
+- [Python - 1](https://sites.google.com/ljinstitutes.edu.in/python/home)
+- [Python - 2](https://sites.google.com/ljinstitutes.edu.in/fcsp2/home)
+- [Data Science](https://sites.google.com/ljinstitutes.edu.in/datascience/home)
+- [Operations Research](https://sites.google.com/ljinstitutes.edu.in/operations-research/contact-me?authuser=0)
+- [Industry 4.0](https://sites.google.com/ljinstitutes.edu.in/industry4/home)
+---
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">
@@ -54,11 +64,6 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 -----
 
 ---
-
-
-
-
-
 
 Credits: [Manish Patel](https://github.com/patelmanishv/)
 
