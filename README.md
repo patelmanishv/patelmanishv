@@ -31,16 +31,14 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 </p>
 
 ---
-:fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patelmanishv&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanishv&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-:globe_with_meridians: My Websites
-<hr>
-
+## :globe_with_meridians: My Websites
 - [Python - 1](https://sites.google.com/ljinstitutes.edu.in/python/home)
 - [Python - 2](https://sites.google.com/ljinstitutes.edu.in/fcsp2/home)
 - [Data Science](https://sites.google.com/ljinstitutes.edu.in/datascience/home)
