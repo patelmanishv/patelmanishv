@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/patelmanishv/patelmanishv.svg?cache=remove)
-![GithubFollowers](https://github.com/patelmanishv?tab=followers)
+
 <h3 style = "color:cyan"> Hi there 👋 I'm Manish Patel </h3>
 
 An Assistant Professor and a data science trainer passionate about Data Science :bar_chart:. I like automating things, teaching and learning  - 📜 open source, :cloud: Cloud Computing, 👨🏻‍💻 DataScience, CyberSecurity 🛡️,  :new: Innovation and Automation :robot: 
@@ -30,6 +30,13 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 	
 </p>
 
+---
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patelmanishv&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanishv&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">
@@ -45,6 +52,13 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 </p>
 
 -----
+
+---
+
+
+
+
+
 
 Credits: [Manish Patel](https://github.com/patelmanishv/)
 
