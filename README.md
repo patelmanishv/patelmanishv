@@ -39,6 +39,7 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 
 ---
 ## :globe_with_meridians: My Websites
+- [Python - 1 Course Mindmap Website](https://patelmanishv.github.io/python1/)
 - [Python - 1](https://sites.google.com/ljinstitutes.edu.in/python/home)
 - [Python - 2](https://sites.google.com/ljinstitutes.edu.in/fcsp2/home)
 - [Data Science](https://sites.google.com/ljinstitutes.edu.in/datascience/home)
