@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/patelmanishv/patelmanishv.svg?cache=remove)
 
