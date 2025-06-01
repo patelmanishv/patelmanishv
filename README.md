@@ -29,8 +29,10 @@ An Assistant Professor and a data science trainer passionate about Data Science 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
 	<img title="MySQLite" alt="MySQLite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="60" height="40" />
-  <img title="PowerBI" alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="60" height="40" />
-	
+  	<img title="PowerBI" alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="60" height="40" />
+	<img src="https://github.com/user-attachments/assets/5a79f39f-c10b-42fb-85b4-d3e172d22d53" alt="AMPL" title="AMPL" width="40" height="40" />
+
+
 </p>
 
 ---
