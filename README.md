@@ -1,6 +1,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![ViewCount](https://views.whatilearened.today/views/github/patelmanishv/patelmanishv.svg?cache=remove)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishkumar-patel-6503b0b6/)
+
 
 <h3 style = "color:cyan"> Hi there :wave: I'm Manish Patel </h3>
 
