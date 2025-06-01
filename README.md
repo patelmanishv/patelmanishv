@@ -1,5 +1,5 @@
 
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![ViewCount](https://views.whatilearened.today/views/github/patelmanishv/patelmanishv.svg?cache=remove)
 
 <h3 style = "color:cyan"> Hi there :wave: I'm Manish Patel </h3>
